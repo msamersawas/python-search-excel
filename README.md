@@ -3,7 +3,7 @@ python-search-excel
 Python script to search for text inside all Excel files in a directory. Python library openxl is used.
 
 
-Usage
+***Usage**
 
 Search is case insensitive.
 
